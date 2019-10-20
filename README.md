@@ -2,6 +2,7 @@
 ## 深度学习开源课程收集
 ### Deep Learning Course Collection
 
+课程持续更新中
 
 ##  1. **Introduction to Deep Learning**         
 ###  Alex Smola, UC Berkeley            
