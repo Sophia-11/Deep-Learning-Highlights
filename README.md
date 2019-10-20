@@ -2,6 +2,10 @@
 ## 深度学习开源课程收集
 ### Deep Learning Course Collection
 
+目录：
+[**机器学习基础**](a)
+[**深度学习基础**](a)
+
 课程持续更新中
 
 # 机器学习基础
@@ -53,9 +57,9 @@
 ###  2017-2018  
 ***
 ##  9. **Mathematics for Machine Learning** (Linear Algebra, Calculus) 
-#  David Dye, Samuel Cooper, and Freddie Page, IC-London 
-#  [MML](https://www.coursera.org/learn/linear-algebra-machine-learning) 
-#  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4) 
+###  David Dye, Samuel Cooper, and Freddie Page, IC-London 
+###  [MML](https://www.coursera.org/learn/linear-algebra-machine-learning) 
+###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4) 
 ###  2018       
 ***
 ##  10. **Multivariable Calculus**                       
@@ -65,9 +69,9 @@
 ###  2018       
 ***
 #  11. **Matrix Methods in Data Analysis, Signal Processing, and Machine Learning** 
-#  Gilbert Strang, MIT                       
+###  Gilbert Strang, MIT                       
 ###  [18.065](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018) 
-#  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
+###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
 ###  S2018      
 ***
 
