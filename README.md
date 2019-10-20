@@ -11,78 +11,64 @@
 ###  Gilbert Strang, MIT                       
 ###  [18.06 SC](http://ocw.mit.edu/18-06SCF11)        
 ###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) 
-#  2011       
-# 
+###  2011       
 ***
 ##  2. **Probability Primer**                           
 ###  Jeffrey Miller, Brown University          
 ###  `mathematical monk`                              
 ###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4) 
-#  2011       
-# 
+###  2011       
 ***
 ##  3. **Information Theory, Pattern Recognition, and Neural Networks** 
-#  David Mackay, University of Cambridge     
+###  David Mackay, University of Cambridge     
 ###  [ITPRNN](http://www.inference.org.uk/mackay/itprnn)          
-#  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) 
-#  2012       
-# 
+###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) 
+###  2012       
 ***
 ##  4. **Probability and Statistics**                   
-###  Michel van Biezen                         
-###  `None`                                           
+###  Michel van Biezen                                                                 
 ###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV) 
-#  2015       
-# 
+###  2015       
 ***
 ##  5. **Linear Algebra: An in-depth Introduction**     
-###  Pavel Grinfeld                            
-###  `None`                                           
+###  Pavel Grinfeld                                                                  
 ###  [Part-1](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv) <br/> [Part-2](https://www.youtube.com/playlist?list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU)  <br/> [Part-3](https://www.youtube.com/playlist?list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5) <br/> [Part-4](https://www.youtube.com/playlist?list=PLlXfTHzgMRULZfrNCrrJ7xDcTjGr633mm) 
-#  2015- 2017 
-# 
+###  2015- 2017 
 ***
 ##  6. **Multivariable Calculus**                       
-###  Grant Sanderson, Khan Academy             
-###  `None`                                           
+###  Grant Sanderson, Khan Academy                                                      
 ###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) 
-#  2016       
-# 
+###  2016       
 ***
 ##  7. **Essence of Linear Algebra**                    
 ###  Grant Sanderson                           
 ###  `None`                                           
 ###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
-#  2016       
-# 
+###  2016       
 ***
 ##  8. **Essence of Calculus**                          
 ###  Grant Sanderson                           
 ###  `None`                                           
 ###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 
-#  2017-2018  
-# 
+###  2017-2018  
 ***
 ##  9. **Mathematics for Machine Learning** (Linear Algebra, Calculus) 
 #  David Dye, Samuel Cooper, and Freddie Page, IC-London 
 #  [MML](https://www.coursera.org/learn/linear-algebra-machine-learning) 
 #  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4) 
-#  2018       
-# 
+###  2018       
 ***
 ##  10. **Multivariable Calculus**                       
 ###  S.K. Gupta and Sanjeev Kumar, IIT-Roorkee 
 ###  [MVC](https://nptel.ac.in/syllabus/111107108/)   
 ###  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTiQtK374NzhFOcQkWmJ71vx) 
-#  2018       
-# 
+###  2018       
 ***
 #  11. **Matrix Methods in Data Analysis, Signal Processing, and Machine Learning** 
 #  Gilbert Strang, MIT                       
 ###  [18.065](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018) 
 #  [YouTube-Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) 
-#  S2018      
-# 
+###  S2018      
 ***
 
 *****
