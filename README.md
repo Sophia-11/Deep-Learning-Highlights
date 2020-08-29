@@ -2,17 +2,258 @@
 
 ### by 【计算机视觉联盟】 王博（Kings）、Sophia
 
-*Last updated: 2019/11/16*
+*Last updated: 2020/08/29*
 
 
 #### Update log
-* **2019/11/05** - 更新开源框架
-* **2019/11/07** - 研究学者推荐
 
 ## Table of Contents
-- [【1】开源框架](https://github.com/Sophia-11/Deep-Learning-Highlights)
-- [【2】研究学者推荐](https://github.com/Sophia-11/Deep-Learning-Highlights)
+- [【1】Frameworks](https://github.com/Sophia-11/Deep-Learning-Highlights)
+- [【2】SDKs](https://github.com/Sophia-11/Deep-Learning-Highlights)
+- [【3】Benchmark Datasets](https://github.com/Sophia-11/Deep-Learning-Highlights)
+- [【4】Conferences](https://github.com/Sophia-11/Deep-Learning-Highlights)
 - 
+
+Most of the time people use different deep learning frameworks and Standard Development Kits (SDKs) for implementing deep learning approaches which are listed below:
+### A.1. Frameworks
+Tensorflow: https://www.tensorflow.org/
+
+Caffe: http://caffe.berkeleyvision.org/
+
+KERAS: https://keras.io/
+
+Theano: http://deeplearning.net/software/theano/
+
+Torch: http://torch.ch/
+
+PyTorch: http://pytorch.org/
+
+Lasagne: https://lasagne.readthedocs.io/en/latest/
+
+DL4J (DeepLearning4J): https://deeplearning4j.org/
+
+Chainer: http://chainer.org/
+
+DIGITS: https://developer.nvidia.com/digits
+
+CNTK (Microsoft): https://github.com/Microsoft/CNTK
+
+MatConvNet: http://www.vlfeat.org/matconvnet/
+
+MINERVA: https://github.com/dmlc/minerva
+
+MXNET: https://github.com/dmlc/mxnet
+
+OpenDeep: http://www.opendeep.org/
+
+PuRine: https://github.com/purine/purine2
+
+PyLerarn2: http://deeplearning.net/software/pylearn2/
+
+TensorLayer: https://github.com/zsdonghao/tensorlayer
+
+LBANN: https://github.com/LLNL/lbann
+
+### A.2. SDKs
+cuDNN: https://developer.nvidia.com/cudnn
+
+TensorRT: https://developer.nvidia.com/tensorrt
+
+DeepStreamSDK: https://developer.nvidia.com/deepstream-sdk
+
+cuBLAS: https://developer.nvidia.com/cublas
+
+cuSPARSE: http://docs.nvidia.com/cuda/cusparse/
+
+NCCL: https://devblogs.nvidia.com/parallelforall/fast-multi-gpu-collectives-nccl/
+
+### A.3. Benchmark Datasets
+Here is the list of benchmark datasets that are used often to evaluate deep learning approaches in different domains of application:
+### A.3.1. Image Classification or Detection or Segmentation
+List of datasets are used in the field of image processing and computer vision:
+
+MNIST: http://yann.lecun.com/exdb/mnist/
+
+CIFAR 10/100: https://www.cs.toronto.edu/~kriz/cifar.html
+
+SVHN/ SVHN2: http://ufldl.stanford.edu/housenumbers/
+
+CalTech 101/256: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+
+STL-10: https://cs.stanford.edu/~acoates/stl10/
+
+NORB: http://www.cs.nyu.edu/~ylclab/data/norb-v1.0/
+
+SUN-dataset: http://groups.csail.mit.edu/vision/SUN/
+
+ImageNet: http://www.image-net.org/
+
+National Data Science Bowl Competition: http://www.datasciencebowl.com/
+
+COIL 20/100: http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php
+
+MS COCO DATASET: http://mscoco.org/
+
+MIT-67 scene dataset: http://web.mit.edu/torralba/www/indoor.html
+
+Caltech-UCSD Birds-200 dataset: http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
+
+Pascal VOC 2007 dataset: http://host.robots.ox.ac.uk/pascal/VOC/voc2007/
+
+H3D Human Attributes dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/
+
+Face recognition dataset: http://vis-www.cs.umass.edu/lfw/
+
+For more data-set visit: https://www.kaggle.com/
+
+http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+
+Recently Introduced Datasets in Sept. 2016:
+Google Open Images (~9M images)—https://github.com/openimages/dataset
+
+Youtube-8M (8M videos: https://research.google.com/youtube8m/
+
+### A.3.2. Text Classification
+Reuters-21578 Text Categorization Collection: http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+
+Sentiment analysis from Stanford: http://ai.stanford.edu/~amaas/data/sentiment/
+
+Movie sentiment analysis from Cornel： http://www.cs.cornell.edu/people/pabo/movie-review-data/
+
+### A.3.3. Language Modeling
+Free eBooks: https://www.gutenberg.org/
+
+Brown and stanford corpus on present americal english: https://en.wikipedia.org/wiki/Brown_Corpus
+
+Google 1Billion word corpus: https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark
+
+### A.3.4. Image Captioning
+Flickr-8k: http://nlp.cs.illinois.edu/HockenmaierGroup/8k-pictures.html
+
+Flickr-30k
+Common Objects in Context (COCO):
+http://cocodataset.org/#overview,
+http://sidgan.me/technical/2016/01/09/Exploring-Datasets
+### A.3.5. Machine Translation
+Pairs of sentences in English and French: https://www.isi.edu/natural-language/download/hansard/
+
+European Parliament Proceedings parallel Corpus 196-2011: http://www.statmt.org/europarl/
+
+The statistics for machine translation: http://www.statmt.org/
+
+### A.3.6. Question Answering
+Stanford Question Answering Dataset (SQuAD): https://rajpurkar.github.io/SQuAD-explorer/
+
+Dataset from DeepMind: https://github.com/deepmind/rc-data
+
+Amazon dataset:
+http://jmcauley.ucsd.edu/data/amazon/qa/,
+
+http://trec.nist.gov/data/qamain...,
+
+http://www.ark.cs.cmu.edu/QA-data/,
+
+http://webscope.sandbox.yahoo.co...,
+
+http://blog.stackoverflow.com/20..
+
+### A.3.7. Speech Recognition
+TIMIT: https://catalog.ldc.upenn.edu/LDC93S1
+
+Voxforge: http://voxforge.org/
+
+Open Speech and Language Resources: http://www.openslr.org/12/
+
+A.3.8. Document Summarization
+https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports
+
+http://www-nlpir.nist.gov/related_projects/tipster_summac/cmp_lg.html
+
+https://catalog.ldc.upenn.edu/LDC2002T31
+
+### A.3.9. Sentiment Analysis:
+IMDB dataset: http://www.imdb.com/
+
+A.3.10. Hyperspectral Image Analysis
+
+http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+
+https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html
+
+http://www2.isprs.org/commissions/comm3/wg4/HyRANK.html
+
+In addition, there is another alternative solution in data programming that labels subsets of data using weak supervision strategies or domain heuristics as labeling functions even if they are noisy and may conflict samples [87].
+
+### A.4. Journals and Conferences
+
+In general, researchers publish their primary version of research on the ArXiv (https://arxiv.org/). Most of the conferences have been accepting papers on Deep learning and its related field. Popular conferences are listed below:
+
+### A.4.1. Conferences
+
+Neural Information Processing System (NIPS)
+
+International Conference on Learning Representation (ICLR): What are you doing for Deep Learning?
+
+International Conference on Machine Learning (ICML)
+
+Computer Vision and Pattern Recognition (CVPR): What are you doing with Deep Learning?
+
+International Conference on Computer Vision (ICCV)
+
+European Conference on Computer Vision (ECCV)
+
+British Machine Vision Conference (BMVC)
+
+### A.4.2. Journal
+
+Journal of Machine Learning Research (JMLR)
+
+IEEE Transaction of Neural Network and Learning System (ITNNLS)
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+
+Computer Vision and Image Understanding (CVIU)
+
+Pattern Recognition Letter
+
+Neural Computing and Application
+
+International Journal of Computer Vision
+
+IEEE Transactions on Image Processing
+
+IEEE Computational Intelligence Magazine
+
+Proceedings of IEEE
+
+IEEE Signal Processing Magazine
+
+Neural Processing Letter
+
+Pattern Recognition
+
+Neural Networks
+
+ISPPRS Journal of Photogrammetry and Remote Sensing
+
+### A.4.3. Tutorials on Deep Learning
+http://deeplearning.net/tutorial/
+
+http://deeplearning.stanford.edu/tutorial/
+
+http://deeplearning.net/tutorial/deeplearning.pdf
+
+Courses on Reinforcement Learning: http://rll.berkeley.edu/deeprlcourse/
+
+### A.4.4. Books on Deep Learning
+https://github.com/HFTrader/DeepLearningBook
+
+https://github.com/janishar/mit-deep-learning-book-pdf
+
+http://www.deeplearningbook.org/
+
+
+
 ### 【1】开源框架
 
 
